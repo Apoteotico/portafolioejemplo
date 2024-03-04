@@ -33,7 +33,7 @@ nav ul li a {
   display: flex;
 padding: 0;
 margin: auto;
-border: solid 5px red;
+
 flex-direction: column;
 }
 .instagram{
@@ -43,7 +43,6 @@ margin: auto;
 section {
   padding: 50px 20px;
   margin: auto;
-  border: solid 1px;
   width: 800px;
   text-align: center;
   justify-content: center;
@@ -55,7 +54,13 @@ footer {
   color: #fff;
   text-align: center;
   padding: 20px 0;
-  position: fixed;
   bottom: 0;
   width: 100%;
+}
+
+a .yS1foEzME51a7cbEy7gg,
+.yS1foEzME51a7cbEy7gg,
+.kCcUhw9eiyaNRu5PbXLh {
+  display: none !important;
+
 }
